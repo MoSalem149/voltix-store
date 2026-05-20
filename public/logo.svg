@@ -1,0 +1,6 @@
+
+<svg width="160" height="60" viewBox="0 0 160 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="60" height="60" rx="18" fill="#22D3EE"/>
+<path d="M18 16L30 44L42 16" stroke="black" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="74" y="38" fill="white" font-size="24" font-family="Arial" font-weight="bold">Voltix</text>
+</svg>
